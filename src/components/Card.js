@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Card({ title, description, myurl, image }) {
   return (
-    <a href={myurl}>
+    <a href={myurl} target="_blank">
       <div className="bg-white p-4 rounded-lg shadow-md mb-4 max-w-xs mx-auto">
         <img
           className="w-full h-40 object-cover mb-4 rounded-md"
