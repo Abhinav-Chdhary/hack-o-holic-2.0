@@ -1,6 +1,6 @@
-# Story.io
+# Mindfull Arcade
 
-This is a cause-effect story based game, play and enjoy.
+A collection of mini-games curated for mentally challenged kids. Me, Shiva, Aditya, Rahul made it for hack-o-holic 2023.
 
 ### Contributing rules:
 
