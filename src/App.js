@@ -24,18 +24,18 @@ export default function App() {
             title={"Animal Guesser"}
             description={"Pictorial game to sharpen knowledge of Animal Names"}
             myurl={"https://rahulkarki226.github.io/Animal_Guessing_game/"}
-            image={"/FruitGuesser.png"}
+            image={"/AnimalGuesser.png"}
           />
           <Card
             title={"Fruit Guesser"}
             description={"Pictorial game to sharpen knowledge of Fruit Names"}
             myurl={"https://rahulkarki226.github.io/Fruit_Guessing/"}
-            image={"/AnimalGuesser.png"}
+            image={"/FruitGuesser.png"}
           />
           <Card
             title={"Word Completion"}
             description={"Guess the letters, in this interactive puzzle game"}
-            myurl={"https://kirsaliaditya.github.io/reveal/"}
+            myurl={"https://kirsaliaditya.github.io/imagereveal/"}
             image={"/ImageRevealer.png"}
           />
         </div>
