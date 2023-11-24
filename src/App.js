@@ -18,21 +18,25 @@ export default function App() {
             title={"Story.io"}
             description={"Cause and effect-based collection of story games"}
             myurl={"https://abhinav-chdhary.github.io/story-io/"}
+            image={"/Storyio.png"}
           />
           <Card
             title={"Animal Guesser"}
             description={"Pictorial game to sharpen knowledge of Animal Names"}
             myurl={"https://rahulkarki226.github.io/Animal_Guessing_game/"}
+            image={"/FruitGuesser.png"}
           />
           <Card
             title={"Fruit Guesser"}
             description={"Pictorial game to sharpen knowledge of Fruit Names"}
             myurl={"https://rahulkarki226.github.io/Fruit_Guessing/"}
+            image={"/AnimalGuesser.png"}
           />
           <Card
             title={"Word Completion"}
             description={"Guess the letters, in this interactive puzzle game"}
             myurl={"https://kirsaliaditya.github.io/reveal/"}
+            image={"/ImageRevealer.png"}
           />
         </div>
       </div>
