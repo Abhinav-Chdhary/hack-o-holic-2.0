@@ -46,6 +46,14 @@ export default function App() {
               "https://abhinav-chdhary.github.io/hack-o-holic-2.0/ImageRevealer.png"
             }
           />
+          <Card
+            title={"Piano Bite"}
+            description={"A interactive game to learn alphabet through music"}
+            myurl={"https://kirsaliaditya.github.io/piano/"}
+            image={
+              "https://abhinav-chdhary.github.io/hack-o-holic-2.0/Piano.png"
+            }
+          />
         </div>
       </div>
     </div>
