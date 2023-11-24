@@ -18,25 +18,33 @@ export default function App() {
             title={"Story.io"}
             description={"Cause and effect-based collection of story games"}
             myurl={"https://abhinav-chdhary.github.io/story-io/"}
-            image={"/Storyio.png"}
+            image={
+              "https://abhinav-chdhary.github.io/hack-o-holic-2.0/Storyio.png"
+            }
           />
           <Card
             title={"Animal Guesser"}
             description={"Pictorial game to sharpen knowledge of Animal Names"}
             myurl={"https://rahulkarki226.github.io/Animal_Guessing_game/"}
-            image={"/AnimalGuesser.png"}
+            image={
+              "https://abhinav-chdhary.github.io/hack-o-holic-2.0/AnimalGuesser.png"
+            }
           />
           <Card
             title={"Fruit Guesser"}
             description={"Pictorial game to sharpen knowledge of Fruit Names"}
             myurl={"https://rahulkarki226.github.io/Fruit_Guessing/"}
-            image={"/FruitGuesser.png"}
+            image={
+              "https://abhinav-chdhary.github.io/hack-o-holic-2.0/FruitGuesser.png"
+            }
           />
           <Card
             title={"Word Completion"}
             description={"Guess the letters, in this interactive puzzle game"}
             myurl={"https://kirsaliaditya.github.io/imagereveal/"}
-            image={"/ImageRevealer.png"}
+            image={
+              "https://abhinav-chdhary.github.io/hack-o-holic-2.0/ImageRevealer.png"
+            }
           />
         </div>
       </div>
