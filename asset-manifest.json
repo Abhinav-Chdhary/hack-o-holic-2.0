@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/hack-o-holic-2.0/static/css/main.045af707.css",
-    "main.js": "/hack-o-holic-2.0/static/js/main.bde01c48.js",
+    "main.js": "/hack-o-holic-2.0/static/js/main.2ed34ee1.js",
     "index.html": "/hack-o-holic-2.0/index.html",
     "main.045af707.css.map": "/hack-o-holic-2.0/static/css/main.045af707.css.map",
-    "main.bde01c48.js.map": "/hack-o-holic-2.0/static/js/main.bde01c48.js.map"
+    "main.2ed34ee1.js.map": "/hack-o-holic-2.0/static/js/main.2ed34ee1.js.map"
   },
   "entrypoints": [
     "static/css/main.045af707.css",
-    "static/js/main.bde01c48.js"
+    "static/js/main.2ed34ee1.js"
   ]
 }
