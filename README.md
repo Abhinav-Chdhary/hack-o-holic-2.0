@@ -1,7 +1,6 @@
 # Mindfull Arcade
 
 A collection of mini-games curated for mentally challenged kids. Me, Shiva, Aditya, Rahul made it for hack-o-holic 2023.
-### Team: Shiva Parihar(team-leader), @KirsaliAditya, Rahul Karki.
 
 ### Contributing rules:
 
