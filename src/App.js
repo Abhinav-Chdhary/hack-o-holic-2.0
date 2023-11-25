@@ -49,7 +49,7 @@ export default function App() {
           <Card
             title={"Piano Bite"}
             description={"A interactive game to learn alphabet through music"}
-            myurl={"https://kirsaliaditya.github.io/piano/"}
+            myurl={"https://piano.shivaayp999.repl.co/"}
             image={
               "https://abhinav-chdhary.github.io/hack-o-holic-2.0/Piano.png"
             }
